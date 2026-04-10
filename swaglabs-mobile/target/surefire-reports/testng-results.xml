@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-04-10T17:02:20 WIB" name="SwagLabs Mobile Test Suite" finished-at="2026-04-10T17:03:03 WIB" duration-ms="43722">
+    <groups>
+    </groups>
+    <test started-at="2026-04-10T17:02:20 WIB" name="Login Tests" finished-at="2026-04-10T17:02:31 WIB" duration-ms="11300">
+      <class name="com.syafiq.appium.LoginTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.syafiq.appium.LoginTest@65d6b83b]" started-at="2026-04-10T17:02:20 WIB" name="setUp" finished-at="2026-04-10T17:02:26 WIB" duration-ms="6234" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testBlankUsernameAndPassword()[pri:0, instance:com.syafiq.appium.LoginTest@65d6b83b]" started-at="2026-04-10T17:02:26 WIB" name="testBlankUsernameAndPassword" finished-at="2026-04-10T17:02:29 WIB" duration-ms="2664" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testBlankUsernameAndPassword -->
+        <test-method signature="testValidUsernameAndPassword()[pri:0, instance:com.syafiq.appium.LoginTest@65d6b83b]" started-at="2026-04-10T17:02:29 WIB" name="testValidUsernameAndPassword" finished-at="2026-04-10T17:02:31 WIB" duration-ms="1993" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testValidUsernameAndPassword -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.syafiq.appium.LoginTest@65d6b83b]" started-at="2026-04-10T17:02:31 WIB" name="tearDown" finished-at="2026-04-10T17:02:31 WIB" duration-ms="390" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.syafiq.appium.LoginTest -->
+    </test> <!-- Login Tests -->
+    <test started-at="2026-04-10T17:02:31 WIB" name="Product Tests" finished-at="2026-04-10T17:02:42 WIB" duration-ms="11061">
+      <class name="com.syafiq.appium.ProductPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.syafiq.appium.ProductPageTest@1f3f4916]" started-at="2026-04-10T17:02:31 WIB" name="setUp" finished-at="2026-04-10T17:02:39 WIB" duration-ms="8006" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testSortByPriceLowToHigh()[pri:0, instance:com.syafiq.appium.ProductPageTest@1f3f4916]" started-at="2026-04-10T17:02:39 WIB" name="testSortByPriceLowToHigh" description="Sort price low to high and verify" finished-at="2026-04-10T17:02:42 WIB" duration-ms="2726" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSortByPriceLowToHigh -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.syafiq.appium.ProductPageTest@1f3f4916]" started-at="2026-04-10T17:02:42 WIB" name="tearDown" finished-at="2026-04-10T17:02:42 WIB" duration-ms="327" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.syafiq.appium.ProductPageTest -->
+    </test> <!-- Product Tests -->
+    <test started-at="2026-04-10T17:02:42 WIB" name="Checkout Tests" finished-at="2026-04-10T17:03:03 WIB" duration-ms="21325">
+      <class name="com.syafiq.appium.CheckoutTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.syafiq.appium.CheckoutTest@3cc2931c]" started-at="2026-04-10T17:02:42 WIB" name="setUp" finished-at="2026-04-10T17:02:50 WIB" duration-ms="8053" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testEndToEndCheckout()[pri:0, instance:com.syafiq.appium.CheckoutTest@3cc2931c]" started-at="2026-04-10T17:02:50 WIB" name="testEndToEndCheckout" finished-at="2026-04-10T17:03:02 WIB" duration-ms="11970" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testEndToEndCheckout -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.syafiq.appium.CheckoutTest@3cc2931c]" started-at="2026-04-10T17:03:02 WIB" name="tearDown" finished-at="2026-04-10T17:03:03 WIB" duration-ms="1299" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.syafiq.appium.CheckoutTest -->
+    </test> <!-- Checkout Tests -->
+  </suite> <!-- SwagLabs Mobile Test Suite -->
+</testng-results>

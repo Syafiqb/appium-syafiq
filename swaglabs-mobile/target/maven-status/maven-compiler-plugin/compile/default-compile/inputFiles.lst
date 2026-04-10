@@ -1,0 +1,9 @@
+/Users/syafiqbasmallah/Documents/tugas-minggu-4/swaglabs-mobile/src/main/java/com/syafiq/appium/drivers/DriverSingleton.java
+/Users/syafiqbasmallah/Documents/tugas-minggu-4/swaglabs-mobile/src/main/java/com/syafiq/appium/drivers/strategies/AndroidManager.java
+/Users/syafiqbasmallah/Documents/tugas-minggu-4/swaglabs-mobile/src/main/java/com/syafiq/appium/drivers/strategies/DriverStrategy.java
+/Users/syafiqbasmallah/Documents/tugas-minggu-4/swaglabs-mobile/src/main/java/com/syafiq/appium/drivers/strategies/DriverStrategyImplementer.java
+/Users/syafiqbasmallah/Documents/tugas-minggu-4/swaglabs-mobile/src/main/java/com/syafiq/appium/drivers/strategies/IOSManager.java
+/Users/syafiqbasmallah/Documents/tugas-minggu-4/swaglabs-mobile/src/main/java/com/syafiq/appium/pages/CartPage.java
+/Users/syafiqbasmallah/Documents/tugas-minggu-4/swaglabs-mobile/src/main/java/com/syafiq/appium/pages/CheckoutPage.java
+/Users/syafiqbasmallah/Documents/tugas-minggu-4/swaglabs-mobile/src/main/java/com/syafiq/appium/pages/LoginPage.java
+/Users/syafiqbasmallah/Documents/tugas-minggu-4/swaglabs-mobile/src/main/java/com/syafiq/appium/pages/ProductPage.java

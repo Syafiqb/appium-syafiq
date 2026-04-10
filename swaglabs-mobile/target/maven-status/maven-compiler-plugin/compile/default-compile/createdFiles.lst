@@ -1,0 +1,9 @@
+com/syafiq/appium/drivers/strategies/AndroidManager.class
+com/syafiq/appium/pages/LoginPage.class
+com/syafiq/appium/pages/CheckoutPage.class
+com/syafiq/appium/drivers/DriverSingleton.class
+com/syafiq/appium/pages/ProductPage.class
+com/syafiq/appium/drivers/strategies/DriverStrategy.class
+com/syafiq/appium/pages/CartPage.class
+com/syafiq/appium/drivers/strategies/DriverStrategyImplementer.class
+com/syafiq/appium/drivers/strategies/IOSManager.class
